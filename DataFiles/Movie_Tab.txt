@@ -1,0 +1,4 @@
+"title"	"year"	"length"	"box.office"
+"1"	"DDLJ"	1975	180	234
+"2"	"Sholay"	1956	212	456
+"3"	"RDB"	1998	140	126
